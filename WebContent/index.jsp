@@ -9,7 +9,8 @@
 <body>
 <br>
 <br>
-    <h2>通过id号查询产品内容</h2>
+   
+    <!-- <h2>通过id号查询产品内容</h2>
 	<form action="selectProductbyid.action">
 	输入id号<input type="text" name="id">
 	<input type="submit" value="查询">
@@ -37,7 +38,7 @@
 		邮箱：<input type="text" name="m_mailbox"> <br><br>
 		<input type="submit"value="提交">
 	</form>
-	
+	 -->
 	
 </body>
 </html>
